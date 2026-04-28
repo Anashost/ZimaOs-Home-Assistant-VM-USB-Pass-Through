@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Welcome to the Matrix
+## 🚀 Intro
 
 So, you just spun up a Home Assistant VM on your ZimaOS rig, plugged in your shiny new USB dongle... and nothing happened? 
 
