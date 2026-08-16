@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fffd,100:00fffd&height=120&section=header" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=00fffd&center=true&vCenter=true&width=800&lines= HOME+ASSISTANT+PASSTHROUGH+|+ZIMAOS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=00fffd&center=true&vCenter=true&width=800&lines=HOME+ASSISTANT+PASSTHROUGH+|+ZIMAOS" alt="Typing SVG" /></a>
 
   <p align="center">
     <i>The ultimate, copy-and-paste guide to passing through USB devices (Zigbee, Z-Wave, Bluetooth) to your Home Assistant Virtual Machine on ZimaOS.</i>
